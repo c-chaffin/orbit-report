@@ -11,3 +11,12 @@ button {
     font-size: 18px;
     cursor: pointer;
 }
+
+div.main {
+    display: flex;
+    flex-direction: row;
+}
+
+div.orbitReport {
+    margin-right: 40px;
+}
