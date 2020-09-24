@@ -3,6 +3,10 @@
     color: #dd5;
 }
 
+tr:nth-child(even) {
+    background-color: greenyellow
+}
+
 .warning {
     background-color: #da8a8a;
 }
